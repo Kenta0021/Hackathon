@@ -1,0 +1,31 @@
+.awards {
+  display: flex;
+  padding: 50px;
+  gap: 50px;
+}
+
+.awards_cards {
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+  padding-top: 50px;
+}
+
+.card {
+  background-color: rgba(128, 128, 128, 0.479);
+  padding: 50px;
+  border-radius: 20px;
+  font-size: 17px;
+  box-shadow: 0 15px 10px #0000005f;
+}
+
+.awards_img {
+  width: 75%;
+  align-self: center;
+}
+
+@media (max-width: 1045px) {
+  .awards {
+    flex-direction: column-reverse;
+  }
+}

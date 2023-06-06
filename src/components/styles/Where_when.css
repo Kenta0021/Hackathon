@@ -1,0 +1,33 @@
+.where_when {
+  display: grid;
+  grid-template-columns: repeat(3, 350px);
+  grid-template-rows: repeat(1, 400px);
+  justify-content: center;
+  align-items: center;
+  padding: 50px;
+}
+
+.where {
+  width: 100%;
+  background-color: #bbbbbb;
+  padding: 50px;
+  border-radius: 15px;
+  text-align: left;
+}
+
+.when {
+  width: 100%;
+  background-color: #bbbbbb;
+  padding: 50px;
+  border-radius: 15px;
+  grid-column: 3/4;
+}
+
+@media (max-width: 1045px) {
+  .where_when {
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+  }
+
+}

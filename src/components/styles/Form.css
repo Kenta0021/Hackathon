@@ -1,0 +1,33 @@
+.sign_up_container {
+  display: flex;
+  justify-content: center;
+  padding: 100px;
+  margin: auto;
+}
+
+.sign_up_title {
+  text-align: center;
+}
+
+form {
+  background-color: rgba(128, 128, 128, 0.347);
+  padding: 70px;
+  border-radius: 20px; 
+  box-shadow: 0 15px 10px #0000004b;
+}
+
+.sign_up_button {
+  position: relative;
+  top: 20px;
+  width: 100%;
+  height: 30px;
+  background-color: rgba(103, 0, 138, 0.526);
+  border-radius: 10px;
+  border: none;
+  cursor: pointer;
+}
+
+.sign_up_button:hover {
+  background-color: rgba(0, 0, 255, 0.455);
+  transition: all 0.5s ease;
+}
