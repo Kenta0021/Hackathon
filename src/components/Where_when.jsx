@@ -9,9 +9,9 @@ const where_when = () => {
           ¿Donde Será el Evento?
         </h3>
         <p>
-          El evento será en Cra. 41b #2d1, Bogotá (Parque publico el girasol, Puente Aranda),
-          se tendran mesas en la mitad de el parque para que todas aquellas personas que 
-          se hallan inscrito puean registrar su asistencia a el evento.
+          El evento será en Cra. 41b #2d1, Bogotá (Parque Público El Girasol, Puente Aranda),
+          se tendrán mesas en la mitad del parque para que todas aquellas personas que
+          se hayan inscrito puedan registrar su asistencia al evento.
         </p>
       </div>
       <div className='when'>
@@ -19,9 +19,9 @@ const where_when = () => {
           ¿Cuando Será el Evento?
         </h3>
         <p>
-          El evento iniciara aproximadamente a las 9 am, si es de tu gusto puedes llegar
-          antes para interactuar con colegas ya sea de tu misma profesion y 
-          connocimiento como colegas expertos  en otras areas.
+          El evento será el día 28 de julio e iniciará aproximadamente a las 9 am, si es de tu gusto puedes llegar
+          antes para interactuar con colegas ya sea de tu misma profesión y
+          conocimiento como colegas expertos  en otras áreas.
         </p>
       </div>
     </div>

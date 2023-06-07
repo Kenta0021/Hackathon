@@ -9,8 +9,8 @@ const what_is = () => {
           ¿Que es Hackathon?
         </h2>
         <p className='description_text'>
-          Hackathon es un evento reaalizado por Taxis Libres S.A.
-          en el cual se realizan competencias enfocadas a el desarrollo web,
+          Hackathon es un evento realizado por taxis libres S.A.
+          En el cual se realizan competencias enfocadas al desarrollo web,
           en estas competencias pueden participar ingenieros, programadores, diseñadores,
           comunicadores, analistas de datos y demás perfiles.
           El objetivo principal es ejecutar retos en movilidad en taxi en menos de tres días.
