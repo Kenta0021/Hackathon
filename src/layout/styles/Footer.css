@@ -4,6 +4,7 @@
   bottom: 0;
   width: 100%;
   justify-content: space-around;
+  align-items: center;
   background-color: black;
 }
 
@@ -12,7 +13,7 @@
 }
 
 a:hover {
-  color: rgb(174, 0, 255);
+  color: #99B934;
   transition: all .5s ease;
 }
 

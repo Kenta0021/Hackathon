@@ -17,7 +17,7 @@ const what_is = () => {
         </p>
       </div>
       <div className='image_container'>
-        <img src="https://www.nicepng.com/png/detail/403-4039907_diseo-y-desarrollo-web-building-a-website.png" alt="" />
+        <img src="https://cdn-icons-png.flaticon.com/512/1688/1688400.png" alt="" />
       </div>
     </div>
   )

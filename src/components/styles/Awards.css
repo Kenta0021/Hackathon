@@ -20,12 +20,18 @@
 }
 
 .awards_img {
-  width: 75%;
+  width: 50%;
+  height: auto;
   align-self: center;
+  padding: 100px;
 }
 
 @media (max-width: 1045px) {
   .awards {
     flex-direction: column-reverse;
+  }
+
+  .awards_img {
+    padding: 20px;
   }
 }

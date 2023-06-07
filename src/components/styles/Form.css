@@ -1,7 +1,7 @@
 .sign_up_container {
   display: flex;
   justify-content: center;
-  padding: 100px;
+  padding: 50px;
   margin: auto;
 }
 
@@ -28,6 +28,6 @@ form {
 }
 
 .sign_up_button:hover {
-  background-color: rgba(0, 0, 255, 0.455);
+  background-color: #99B934;
   transition: all 0.5s ease;
 }

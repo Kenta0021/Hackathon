@@ -7,7 +7,11 @@ const Header = () => {
   return (
     <header className='header'>
       <div className='header_title'>
-        <h3>Hackathon 2023</h3>
+        <a href="/">
+          <h3>
+            HACKATHON 2023
+          </h3>
+        </a>
       </div>
       <div id='menu' className='header_menu'>
         <ul className={`header_hamburger ${isOpen && 'active'}`}>

@@ -1,8 +1,10 @@
 .inscription_description {
   display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
   padding: 100px;
-  justify-content: space-around;
-  background-color: rgb(174, 0, 255);;
+  background-color: #99B934;
 }
 
 .text_container h4 {
@@ -10,17 +12,12 @@
 }
 
 .inscription_button {
-  position: absolute;
-  right: 40px;
-  width: 30%;
-  height: 50px;
   background-color: red;
-  font-size: 20px;
-  cursor: pointer;
-  border-radius: 10px;
+  width: 100%;
+  height: 40px;
   border: none;
-  padding: 20px;
-  text-align: center;
+  border-radius: 10px;
+  margin-right: 100px;
 }
 
 .inscription_button:hover{
@@ -33,10 +30,5 @@
   .inscription_description {
     display: flex;
     flex-direction: column;
-  }
-
-  .inscription_button {
-    width: 80%;
-    margin-top: 20px;
   }
 }

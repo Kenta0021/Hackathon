@@ -34,7 +34,7 @@ const Awards = () => {
         </div>
       </div>
       <div className='awards_img'>
-        <img src="https://img.freepik.com/vector-premium/trofeo-medalla-oro-vector-ilustracion-dibujos-animados_480044-281.jpg?w=2000" alt="" />
+        <img src="https://www.pngplay.com/wp-content/uploads/8/Trophy-No-Background.png" alt="" />
       </div>
     </div>
   )
